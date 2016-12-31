@@ -1,0 +1,180 @@
+/* WRAPPER Hero */
+
+
+.hero a {color: #ffffff;font-family: "sofia-pro-soft",sans-serif;font-size:18px;font-weight:700;letter-spacing:1px;}
+
+.hero-text {letter-spacing:1px;margin-top: 75px;}
+
+.hero-text div.entry-content h1 {font-family: "sofia-pro-soft",sans-serif;font-weight:700;font-size: 64px;line-height:120%;letter-spacing:5px;text-align:center;}
+
+.hero-text div.entry-content h2 {font-family: "open sans",sans-serif;color:#ffffff;font-weight:400;font-size:36px;line-height:120%;letter-spacing:3px;text-align:center;margin-bottom:30px;}
+
+.button {text-align:center;border:none;}
+.btn-block {text-align:center;border:none;}
+.btn-block button {font-family: sofia-pro-soft;font-size: 21px;font-weight:300;letter-spacing: 2px;text-align:center;line-height: 160%;background-color:#6dcd61;padding: 12px 25px 12px 10px;width: 45%;margin:15px;border:0px;}
+
+.btn-block button:hover {background-color:green;}
+
+
+
+
+
+
+/* WRAPPER Stickynav */
+
+
+.stickynavwrapper a {font-family: "sofia-pro-soft",sans-serif;font-weight:700;font-size:18px;letter-spacing:3px;color:#ffffff;line-height:120%;text-align:center;background: #9d94f0;}
+
+
+
+
+/*WRAPPER Parenting is the toughest job...*/
+
+.parenting-pain-point h2 {font-family: "sofia-pro-soft",sans-serif;font-weight:400;font-size:44px;letter-spacing:3px;color:#ffffff;line-height:120%;text-align:center;background: #9d94f0;}
+
+
+
+
+
+
+/* WRAPPER Value Prop Buckets */
+
+
+.value-prop-buckets .row {text-align:center;margin:auto;}
+
+.value-prop-buckets div  {padding:5px 20px 0px 20px;text-align:center;}
+
+.value-prop-buckets p {font-family:open sans;font-size: 18px;letter-spacing: 1px;text-align:center;line-height: 140%;}
+
+.value-prop-buckets h2 {font-family: sofia-pro-soft;font-size: 24px;font-weight:700;letter-spacing: 3px;text-align:center;line-height: 120%;color:#9d94f0;margin-bottom:30px;}
+
+
+
+/* WRAPPER Parenting pain point...*/
+
+.parenting-pain-point h2 {font-family: sofia-pro-soft;font-size: 36px;font-weight:400;letter-spacing: 3px;text-align:right;line-height: 140%;color:#ffffff;margin-bottom:30px;background:none;}
+
+
+
+
+
+
+/* WRAPPER Screening process */
+
+
+.screening-process-title {font-family: sofia-pro-soft;font-size: 36px;font-weight:700;letter-spacing: 3px;text-align:center;line-height: 140%;color:#9d94f0;margin-bottom:30px;background:none;}
+
+.screening-process-points {font-family: sofia-pro-soft;font-size: 20px;font-weight:400;letter-spacing: 2px;text-align:left;line-height: 130%;color:#6dcd61;margin:0px;background:none;padding:0px;}
+
+.screening-process-details h3 {font-family: sofia-pro-soft;font-size: 30px;font-weight:400;letter-spacing: 3px;text-align:center;line-height: 140%;color:#9d94f0;margin-bottom:30px;background:none;}
+
+.screening-process-details p {font-family: open sans;font-size: 24px;font-weight:400;letter-spacing: 3px;text-align:center;line-height: 140%;color:#000000;margin-bottom:30px;background:none;}
+
+.jumplinkhow {offset: 200px;}
+
+
+
+
+
+
+/* WRAPPER Great nanny great salary */
+
+
+.greatnanny-greatsalary h2 {font-family: sofia-pro-soft;font-size: 36px;font-weight:400;letter-spacing: 3px;text-align:right;line-height: 140%;color:#ffffff;margin-bottom:30px;background:none;}
+
+
+
+
+
+
+/* WRAPPER Most important hire... */
+
+
+.most-important-hire-headline h2  {font-family: sofia-pro-soft;font-size: 36px;font-weight:700;letter-spacing: 3px;text-align:center;line-height: 140%;color:#9d94f0;margin-bottom:30px;background:none;}
+
+.most-important-hire-headline p {font-family: open sans;font-size: 21px;font-weight:400;letter-spacing: 3px;text-align:justify;line-height: 140%;color:#000000;margin-bottom:30px;background:none;}
+
+
+
+
+
+
+/* WRAPPER It takes a village.... */
+
+
+.it-takes-a-village-headline h2 {font-family: sofia-pro-soft;font-size: 44px;font-weight:300;letter-spacing: 3px;text-align:left;line-height: 120%;color:#ffffff;margin-bottom:30px;margin-top:0px;background:none;}
+
+
+
+
+
+
+/* WRAPPER FAQs */
+
+
+.faq-callout h1 {font-family: sofia-pro-soft;font-size: 44px;font-weight:700;letter-spacing: 3px;text-align:center;line-height: 140%;color:#9d94f0;margin-bottom:15px;margin-top:0px;background:none;}
+
+.faq-heading h3 {font-family: sofia-pro-soft;font-size: 36px;font-weight:400;letter-spacing: 3px;text-align:left;line-height: 160%;color:#9d94f0;background:none;margin:0px;padding:0px;}
+
+.faq h3 {font-family: sofia-pro-soft;font-size: 21px;font-weight:400;letter-spacing: 1px;text-align:left;line-height: 120%;color:#000000;background:none;margin-bottom:10px;margin-top:0px;padding:0px;}
+
+.faq  {font-family: open sans;font-size: 15px;font-weight:400;letter-spacing: 1px;text-align:left;line-height: 140%;color:#000000;margin-bottom:30px;padding:15px;background:#C3F4BD;border-radius:10px;}
+
+.btn-block-purple button {font-family: sofia-pro-soft;font-size: 21px;font-weight:300;letter-spacing: 3px;text-align:center;line-height: 160%;background-color:#9d94f0;padding: 12px 25px 12px 25px;width: 45%;margin:15px;border:0px;
+}
+
+
+
+
+
+/* WRAPPER General Contact Form */
+
+
+.contact-form-callout p {font-family: open sans;font-size: 24px;font-weight:400;letter-spacing: 1px;text-align:left;line-height: 140%;color:#000000;margin-bottom:30px;background:none;}
+
+.contact-form-callout h2 {font-family: sofia-pro-soft;font-size: 54px;font-weight:700;letter-spacing: 3px;text-align:left;line-height: 140%;color:#9d94f0;margin-bottom:15px;margin-top:30px;background:none;}
+
+.contact-form {margin-top: 30px;padding:25px;font-weight:400;}
+
+.contact-form label {font-family: open sans;font-size: 18px;font-weight:400;}
+
+.contact-form input, .contact-form textarea {border: 2px solid #1a1a1a;border-radius: 5px;font-size:21px;min-width:100%;font-weight:400;}
+
+.contact-form a.cancel {font-family: "sofia-pro-soft",sans-serif;color:#666666;text-decoration:underline;font-size:24px;text-align:left;display:inline;float:right;position:relative;top:-60px;right:60px;}
+
+.contact-form input[type="submit"] {
+    background: url(http://cnanny.danieldalonzo.com/wp-content/uploads/sites/46/2016/12/heart_send_button.png) no-repeat;
+  background-size: 80px; 
+    padding: 0px;
+-moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    color: #444;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    line-height:7;
+    border: none;
+    min-width:30%;
+}
+
+
+
+
+/* WRAPPER Footer */
+
+
+.footer {font-family: open sans;font-size: 16px;font-weight:300; letter-spacing: 1px;}
+
+.social-icons {margin-top:30px;}
+.social-icons a {margin: 10px;display:inline-block;}
+
+.block-type-text div.entry-content {
+font-family: "sofia-pro-soft",sans-serif;
+}
+
+/#wrapper-wyz586637ebb420e, div#whitewrap div.wrapper-mirroring-wyz586637ebb420e {
+display:none;
+}
